@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icon-Contained/Crypto/Squircle/ETH-Solid/80px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Marketing-site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketing-site-old-sizing-Copy-2" transform="translate(-35.000000, -753.000000)">
+            <g id="Icon-Contained/Crypto/Squircle/ETH-Solid/80px" transform="translate(35.000000, 753.000000)">
+                <g id="Icon-Contained/*Placeholder/40px">
+                    <g id="*/Base-Shapes/Atoms/Squircle_Radius-10px-" fill="#5E7CF1">
+                        <rect id="Squircle_Radius-10px" x="0" y="0" width="80" height="80" rx="22.2222222"></rect>
+                    </g>
+                    <g id="Icon/Crypto/ETH-Solid/24px" transform="translate(16.000000, 16.000000)" fill="#FFFFFF">
+                        <path d="M38,26 L23.9962667,46 L10,26.001927 L23.9962667,34.3842374 L38,26 Z M24.0018674,2 L38,24.118506 L24.0018674,32 L10,24.1203162 L24.0018674,2 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

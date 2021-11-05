@@ -1,0 +1,44 @@
+body {
+	max-width: 1000px;
+	margin: 0 auto;
+	font-family: verdana;
+	color: #2e2e2e;
+	background-color: #f5f5f5;
+}
+
+h2{
+	text-align: center;
+	padding: 15px;
+}
+
+p {
+	text-align: center;
+}
+
+table {
+	table-layout: fixed;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	border-spacing: 0;
+}
+
+th, td {
+	padding: 10px;
+}
+
+.asset {
+	text-align: left;
+}
+
+.bordered {
+	border-left: 1px solid black;
+	border-spacing: 0px;
+}
+
+img {
+	width: 40px;
+	height: 40px;
+	vertical-align: middle;
+	padding: 8px;
+}

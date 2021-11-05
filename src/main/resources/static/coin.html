@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Crypto Prices</title>
+		<link href="style.css" rel="stylesheet">
+		<script src="main.js" defer></script>
+	</head>
+	<body>
+		<h2>Current prices for Bitcoin (BTC) and Ethereum (ETH)</h2>
+		<table>
+			<tr>
+				<th>Name</th>
+				<th class="bordered">Coinbase Buy Price</th>
+				<th>Gemini Buy Price</th>
+				<th class="bordered">Coinbase Sell Price</th>
+				<th>Gemini Sell Price</th>
+			</tr>
+			<tr>
+				<td class="asset">Bitcoin</td>
+				<td class="bordered" id="cb_btc_buy">-</td>
+				<td id="gm_btc_buy">-</td>
+				<td class="bordered" id="cb_btc_sell">-</td>
+				<td id="gm_btc_sell">-</td>
+			</tr>
+			<tr>
+				<td class="asset">Ethereum</td>
+				<td class="bordered" id="cb_eth_buy">-</td>
+				<td id="gm_eth_buy">-</td>
+				<td class="bordered" id="cb_eth_sell">-</td>
+				<td id="gm_eth_sell">-</td>
+			</tr>
+		</table>
+	</body>
+</html>
